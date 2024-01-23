@@ -1,0 +1,3 @@
+search-flight-button: '//*[@resource-id="com.example.myapplication:id/search_flight"]'
+search-input: '//*[@resource-id="com.example.myapplication:id/flight_number"]'
+search-button: '//*[@resource-id="com.example.myapplication:id/searchFlight"]'

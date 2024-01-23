@@ -1,0 +1,25 @@
+Test Case to do
+1. Sign In
+3. Search Flight
+4. Book Flight
+
+1. Test Case Sign In
+A. Positive Case with valid credential
+B. Negative Case with invalid Username
+C. Negative Case with invalid Password
+D. Negative Case with invalid username and password
+
+2. Test Case Search
+A. Positive Case with valid flight number
+B. Negative Case with invalid flight number
+
+3.Test Case Book Flight
+A. Positive Case
+    - One Way - Flight Only with Day
+    - One Way - Flight Only without Day
+    - One Way - Flight with Hotel with Day
+    - One Way - Flight with Hotel without Day
+    - Round Way - Flight Only with Day
+    - Round Way - Flight Only without Day
+    - Round Way - Flight with Hotel with Day
+    - Round Way - Flight with Hotel without Day
