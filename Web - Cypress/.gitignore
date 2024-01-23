@@ -1,0 +1,17 @@
+node_modules
+cypress/videos
+cypress/screenshots
+<<<<<<< HEAD
+1-getting-started
+2-advanced-examples
+cypress/downloads
+package-*json
+=======
+<<<<<<< HEAD
+package-*.js
+=======
+package-*.json
+1-getting-started
+2-advanced-examples
+>>>>>>> 422cd48f43287f80bc058662189aa01e9dfc1852
+>>>>>>> 6dc7367fb558635e96a8032698256a927acbedee
